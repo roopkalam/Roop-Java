@@ -8,7 +8,7 @@ public class OddEvenNumbers {
 		int evenArray[] = new int[100];
 		int oddCount = 0;
 		int evenCount = 0;
-		for(int i=0; i<=100; i++)
+		for(int i=1; i<=100; i++)
 		{
 		  
 			if(i%2 == 0) 
