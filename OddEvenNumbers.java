@@ -24,7 +24,7 @@ public class OddEvenNumbers {
 		}	
 		//Print Even numbers
 		System.out.println("Even Numbers:");
-	   	for(int l=0;l<evenCount;l++)
+	   	for(int l=1;l<evenCount;l++)
 		{
 		System.out.print(evenArray[l]+", ");
 		}
